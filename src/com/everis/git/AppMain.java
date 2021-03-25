@@ -15,7 +15,10 @@ public class AppMain {
 		 */
 		System.out.println("Hola mundo");
 		
-		
+		/**
+		 * Impresion en pantalla de el String "Hola Oscar Castro"
+		 */
+		System.out.println("Hola Oscar Castro");
 	}
 
 }
